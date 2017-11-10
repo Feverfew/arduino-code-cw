@@ -10,5 +10,4 @@ void loop()
 {
     val = analogRead(1);
     Serial.println(val);
-    delay(10);
 }
